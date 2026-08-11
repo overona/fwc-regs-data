@@ -1,6 +1,453 @@
 {
   "versions": [
     {
+      "version": "2026-08-11-3",
+      "generated_at": "2026-08-11T21:00:15.064413+00:00",
+      "summary": "48 species updated",
+      "species_count": 158,
+      "minor_updates": 0,
+      "changes": [
+        {
+          "species_key": "atlantic-angel",
+          "display_name": "Atlantic angel",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "atlantic-sharpnose",
+          "display_name": "Atlantic Sharpnose",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "basking",
+          "display_name": "Basking",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bigeye-sand-tiger",
+          "display_name": "Bigeye sand tiger",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bigeye-sixgill",
+          "display_name": "Bigeye sixgill",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bigeye-thresher",
+          "display_name": "Bigeye thresher",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bignose",
+          "display_name": "Bignose",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "blacknose",
+          "display_name": "Blacknose",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "blacktip",
+          "display_name": "Blacktip",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "blue",
+          "display_name": "Blue",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bonnethead",
+          "display_name": "Bonnethead",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bull",
+          "display_name": "Bull",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "caribbean-reef",
+          "display_name": "Caribbean reef",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "caribbean-sharpnose-shark",
+          "display_name": "Caribbean sharpnose shark",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "dusky",
+          "display_name": "Dusky",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "finetooth",
+          "display_name": "Finetooth",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "florida-smoothhound",
+          "display_name": "Florida smoothhound",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "galapagos",
+          "display_name": "Galapagos",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "giant-manta-ray",
+          "display_name": "Giant Manta Ray",
+          "kind": "changed",
+          "headline": "Management areas updated",
+          "details": [
+            "area no longer listed separately",
+            "new area added"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "great-hammerhead",
+          "display_name": "Great hammerhead",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "group-1-sharks",
+          "display_name": "Group 1 sharks",
+          "kind": "removed",
+          "headline": "No longer listed by FWC",
+          "details": [],
+          "confidence": "n/a",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "group-2-sharks",
+          "display_name": "Group 2 sharks",
+          "kind": "removed",
+          "headline": "No longer listed by FWC",
+          "details": [],
+          "confidence": "n/a",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "gulf-smoothhound",
+          "display_name": "Gulf smoothhound",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "lemon-shark",
+          "display_name": "Lemon shark",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "longfin-mako",
+          "display_name": "Longfin mako",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "narrowtooth",
+          "display_name": "Narrowtooth",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "night",
+          "display_name": "Night",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "nurse",
+          "display_name": "Nurse",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "oceanic-whitetip",
+          "display_name": "Oceanic Whitetip",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "porbeagle",
+          "display_name": "Porbeagle",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "prohibited-sharks",
+          "display_name": "Prohibited sharks",
+          "kind": "removed",
+          "headline": "No longer listed by FWC",
+          "details": [],
+          "confidence": "n/a",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sand-tiger",
+          "display_name": "Sand tiger",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sandbar",
+          "display_name": "Sandbar",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sawfish",
+          "display_name": "Sawfish",
+          "kind": "changed",
+          "headline": "Management areas updated",
+          "details": [
+            "area no longer listed separately",
+            "new area added"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "scalloped-hammerhead",
+          "display_name": "Scalloped hammerhead",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sevengill",
+          "display_name": "Sevengill",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "shortfin-mako",
+          "display_name": "Shortfin mako",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "silky",
+          "display_name": "Silky",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sixgill-shark",
+          "display_name": "Sixgill shark",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "smalltail",
+          "display_name": "Smalltail",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "smooth-dogfish",
+          "display_name": "Smooth dogfish",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "smooth-hammerhead",
+          "display_name": "Smooth hammerhead",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "spinner",
+          "display_name": "Spinner",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "spiny-dogfish",
+          "display_name": "Spiny dogfish",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "thresher-common",
+          "display_name": "Thresher (common)",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "tiger-shark",
+          "display_name": "Tiger shark",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "whale",
+          "display_name": "Whale",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "white",
+          "display_name": "White",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        }
+      ]
+    },
+    {
       "version": "2026-08-11-2",
       "generated_at": "2026-08-11T19:07:32.967494+00:00",
       "summary": "11 species updated, 5 wording-only update(s)",
