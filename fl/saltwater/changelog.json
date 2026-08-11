@@ -1,0 +1,145 @@
+{
+  "versions": [
+    {
+      "version": "2026-08-11-2",
+      "generated_at": "2026-08-11T19:07:32.967494+00:00",
+      "summary": "11 species updated, 5 wording-only update(s)",
+      "species_count": 118,
+      "minor_updates": 5,
+      "changes": [
+        {
+          "species_key": "atlantic-bonito-little-tunny-bonito",
+          "display_name": "Atlantic bonito, little tunny (bonito)",
+          "kind": "changed",
+          "headline": "Size limit updated",
+          "details": [
+            "size limit is now No size limit (was none stated)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/"
+        },
+        {
+          "species_key": "black-drum",
+          "display_name": "Black Drum",
+          "kind": "changed",
+          "headline": "Management areas updated",
+          "details": [
+            "area no longer listed separately",
+            "new area added"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/black-drum/"
+        },
+        {
+          "species_key": "blackfin-tuna",
+          "display_name": "Blackfin tuna",
+          "kind": "changed",
+          "headline": "Size limit and Bag limit updated",
+          "details": [
+            "size limit is now No size limit (was none stated)",
+            "bag limit is now 2 per harvester per day; 10 per vessel per day (was 2  per day)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/"
+        },
+        {
+          "species_key": "bluefin-bigeye-albacore-yellowfin-tuna",
+          "display_name": "Bluefin, Bigeye, Albacore, Yellowfin Tuna",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: Federal HMS Angling Permit is required when fishing in state and federal waters.; Anglers targeting bluefin tuna, bigeye tuna, albacore tuna, yellowfin tuna and skipjack tuna are required to have a federal HMS Angling Permit."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/"
+        },
+        {
+          "species_key": "bluefish",
+          "display_name": "Bluefish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Atlantic federal waters: bag limit is now 3 per harvester per day [anglers fishing from private recreational vessels]; 5 per harvester per day [for-hire vessels] (was 3 per harvester [anglers fishing from private recreational vessels]; 5 per harvester [for-hire vessels])",
+            "Atlantic state waters: bag limit is now 3 per harvester per day [Nassau through Miami-Dade counties] (was 3 per harvester [Nassau through Miami-Dade counties])",
+            "Gulf state and federal waters: bag limit is now 10 per harvester per day (was 10 per harvester [includes Monroe County])"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/bluefish/"
+        },
+        {
+          "species_key": "bonefish",
+          "display_name": "Bonefish",
+          "kind": "changed",
+          "headline": "Season and Bag limit updated",
+          "details": [
+            "season is now Catch and release only (FWC Commissioners approved measures making bonefish catch-and-release only, effective Sept. 1, 2013.) (was Catch and release only (Bonefish harvest is prohibited statewide; catch-and-release only.))",
+            "bag limit is now 0 per harvester (was none stated)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/bonefish/"
+        },
+        {
+          "species_key": "cobia",
+          "display_name": "Cobia",
+          "kind": "changed",
+          "headline": "Management areas updated",
+          "details": [
+            "new area added",
+            "area no longer listed separately"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/cobia/"
+        },
+        {
+          "species_key": "dolphinfish",
+          "display_name": "Dolphinfish",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/dolphinfish/"
+        },
+        {
+          "species_key": "dolphinfish-mahi-mahi",
+          "display_name": "Dolphinfish/Mahi-Mahi",
+          "kind": "removed",
+          "headline": "No longer listed by FWC",
+          "details": [],
+          "confidence": "n/a",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/dolphinfish/"
+        },
+        {
+          "species_key": "lionfish",
+          "display_name": "Lionfish",
+          "kind": "changed",
+          "headline": "Management areas updated",
+          "details": [
+            "new area added",
+            "area no longer listed separately"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/lionfish/"
+        },
+        {
+          "species_key": "swordfish",
+          "display_name": "Swordfish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 1 per harvester per day; 4 per vessel [recreational (not for-hire) vessel]; 15 per vessel [for-hire vessel]; 6 per vessel [Charter boats]; 0 per harvester per day [captain and crew of for-hire vessels] (was 1 per harvester per day; 4 per vessel per day [recreational (not for-hire) vessel]; 15 per vessel per day [for-hire vessel]; 6 per vessel per day [Charter boats]; Catch and release only; 0 per harvester per day [captain and crew of for-hire vessels])"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/"
+        }
+      ]
+    },
+    {
+      "version": "2026-08-11",
+      "generated_at": "2026-08-11T17:49:50.430488+00:00",
+      "summary": "Initial regulation dataset (118 species)",
+      "species_count": 118,
+      "minor_updates": 0,
+      "changes": []
+    }
+  ]
+}
