@@ -1,6 +1,256 @@
 {
   "versions": [
     {
+      "version": "2026-08-12",
+      "generated_at": "2026-08-12T16:26:17.064817+00:00",
+      "summary": "21 species updated, 129 wording-only update(s)",
+      "species_count": 159,
+      "minor_updates": 129,
+      "changes": [
+        {
+          "species_key": "algae-coralline-red-family-corallinaceae",
+          "display_name": "Algae, Coralline Red (Family Corallinaceae)",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "anemones-orders-actiniaria-zoanthidea-corallimorpharia-and-ceriantharia",
+          "display_name": "Anemones (Orders Actiniaria, Zoanthidea, Corallimorpharia, and Ceriantharia)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 5 per harvester per day (20-organism aggregate) [Corallimorphs and Zoanthids, single polyps] (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "angelfish-family-pomacanthidae",
+          "display_name": "Angelfish (Family Pomacanthidae)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 5 per harvester per day (20-organism aggregate) (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "bay-scallop",
+          "display_name": "Bay Scallop",
+          "kind": "changed",
+          "headline": "Season and Bag limit and Permits updated",
+          "details": [
+            "Fenholloway through Suwannee Rivers Zone: season is now Open year-round (Labor Day falls on a different calendar date each year.) (was Open Jun. 15 - Sep. 1 (End date is 'Labor Day', a floating holiday (first Monday of September); exact calendar date not printed on page.))",
+            "Fenholloway through Suwannee Rivers Zone: bag limit is now 1 per harvester per day [whole bay scallops in shell, per person, June 15-30]; 1 per harvester per day [shucked bay scallop meat (printed as \"one cup\"), per person, June 15-30]; 5 per vessel per day [whole bay scallops in shell, per vessel, June 15-30]; 2 per vessel per day [shucked bay scallop meat, per vessel, June 15-30]; 2 per harvester per day [whole bay scallops in shell, per person, July 1-Labor Day]; 1 per harvester per day [bay scallop meat, per person, July 1-Labor Day]; 10 per vessel per day [whole bay scallops in shell, per vessel, July 1-Labor Day]; 4 per vessel per day [bay scallop meat, per vessel, July 1-Labor Day] (was 1 per harvester per day [June 15-30]; 5 per vessel per day [June 15-30]; 2 per harvester per day [July 1-Labor Day]; 10 per vessel per day [July 1-Labor Day])",
+            "Franklin County through northwestern Taylor County: season is now Open year-round (was Open Jul. 1 - Sep. 24)",
+            "Franklin County through northwestern Taylor County: bag limit is now 2 per harvester per day [whole bay scallops in shell, per person]; 1 per harvester per day [bay scallop meat, per person]; 10 per vessel per day [whole bay scallops in shell, per vessel]; 4 per vessel per day [bay scallop meat, per vessel] (was 2 per harvester per day [Gulf through NW Taylor County and Levy through Pasco County]; 10 per vessel per day [Gulf through NW Taylor County and Levy through Pasco County])",
+            "Levy, Citrus and Hernando counties: season is now Open year-round (was Open Jul. 1 - Sep. 24)",
+            "Levy, Citrus and Hernando counties: bag limit is now 2 per harvester per day [whole bay scallops in shell, per person]; 1 per harvester per day [bay scallop meat, per person]; 10 per vessel per day [whole bay scallops in shell, per vessel]; 4 per vessel per day [bay scallop meat, per vessel] (was 2 per harvester per day [Gulf through NW Taylor County and Levy through Pasco County]; 10 per vessel per day [Gulf through NW Taylor County and Levy through Pasco County])",
+            "Pasco Zone: bag limit is now 2 per harvester per day [whole bay scallops in shell, per person (zone currently closed)]; 1 per harvester per day [bay scallop meat, per person (zone currently closed)]; 10 per vessel per day [whole bay scallops in shell, per vessel (zone currently closed)]; 4 per vessel per day [bay scallop meat, per vessel (zone currently closed)] (was none stated)",
+            "St. Joseph Bay and Gulf County: season is now Open year-round (was Open Aug. 16 - Sep. 24)",
+            "St. Joseph Bay and Gulf County: bag limit is now 2 per harvester per day [whole bay scallops in shell, per person]; 1 per harvester per day [bay scallop meat, per person]; 10 per vessel per day [whole bay scallops in shell, per vessel]; 4 per vessel per day [bay scallop meat, per vessel] (was 2 per harvester per day [Gulf through NW Taylor County and Levy through Pasco County]; 10 per vessel per day [Gulf through NW Taylor County and Levy through Pasco County])",
+            "license/permit requirements are now: Recreational harvesters need a Florida saltwater fishing license to harvest bay scallops unless they are 1. exempt from needing a license or 2. have a no-cost shoreline fishing license and are wading from shore to collect scallops (i.e. feet do not leave bottom to swim, snorkel, or SCUBA and harvesters do not use a vessel to reach or return from the harvest location)."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/bay-scallops/"
+        },
+        {
+          "species_key": "burrfish-balloonfish-porcupinefish",
+          "display_name": "Burrfish/Balloonfish/Porcupinefish",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: MLB endorsement"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "caulerpa-family-caulerpaceae",
+          "display_name": "Caulerpa (Family Caulerpaceae)",
+          "kind": "added",
+          "headline": "Regulations now available",
+          "details": [],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "corals-soft-subclass-octocorallia",
+          "display_name": "Corals, Soft (Subclass Octocorallia)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 6 per harvester per day (20-organism aggregate) (was 6  per day (20-organism aggregate))"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "cowfish",
+          "display_name": "Cowfish",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: MLB endorsement"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "crab-hermit-families-diogenidae-paguridae-parapaguridae-and-pylochelidae",
+          "display_name": "Crab, Hermit (Families Diogenidae, Paguridae, Parapaguridae, and Pylochelidae)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 100 per harvester per day [land hermit crabs (Family Coenobitidae), whichever is greater]; 2 per harvester per day [land hermit crabs (Family Coenobitidae), whichever is greater]; 5 per harvester per day (20-organism aggregate) [hermit crabs except land hermit crabs] (was 100 per harvester per day [land hermit crabs (Family Coenobitidae)]; 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "cubera-snapper",
+          "display_name": "Cubera Snapper",
+          "kind": "changed",
+          "headline": "Size limit updated",
+          "details": [
+            "Gulf of America: size limit is now 12\" minimum total length; 12\" minimum total length (was 12\" minimum total length)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        },
+        {
+          "species_key": "halimeda-mermaid-s-fan-mermaid-s-shaving-brush-family-udoteaceae",
+          "display_name": "Halimeda/Mermaid's Fan/Mermaid's Shaving Brush (Family Udoteaceae)",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: none"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "octopods-order-octopoda",
+          "display_name": "Octopods (Order Octopoda)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Statewide: bag limit is now 5 per harvester per day (20-organism aggregate) [Octopods except Common Octopus (Octopodus vulgaris)] (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "oysters",
+          "display_name": "Oysters",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Apalachicola Bay: bag limit is now 10 per harvester [One bag per harvest tag (equivalent measurement: two 5-gallon buckets or one 10-gallon bucket)]; 60 per harvester [One bag per harvest tag (equivalent measurement: 60 pounds)] (was 1 per harvester [ABRO Permit holders, per assigned reef, per season])",
+            "Dixie, Levy and Wakulla counties: bag limit is now 20  per day [Two bags per person or vessel, whichever is less, per day (equivalent measurement: gallons)]; 120  per day [Two bags per person or vessel, whichever is less, per day (equivalent measurement: pounds)] (was 2 per harvester per day [per person or vessel, whichever is less])",
+            "Statewide, excluding Dixie, Levy and Wakulla counties and Apalachicola Bay: bag limit is now 20  per day [Two bags per person or vessel, whichever is less, per day (equivalent measurement: gallons)]; 120  per day [Two bags per person or vessel, whichever is less, per day (equivalent measurement: pounds)] (was 2 per harvester per day [per person or vessel, whichever is less])"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shellfish/"
+        },
+        {
+          "species_key": "pufferfish",
+          "display_name": "Pufferfish",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: MLB endorsement"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "sea-biscuits-sand-dollars-order-clypeasteroida",
+          "display_name": "Sea Biscuits/Sand Dollars (Order Clypeasteroida)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Statewide: bag limit is now 100 per harvester per day [whichever is greater]; 2 per harvester per day [whichever is greater] (was 100 per harvester per day)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "shrimp",
+          "display_name": "Shrimp",
+          "kind": "changed",
+          "headline": "Season and Permits updated",
+          "details": [
+            "Big Bend closed area: season is now none stated (was Open year-round)",
+            "license/permit requirements are now: Recreational saltwater [fishing license](/license/recreational/saltwater-fishing/ \"Saltwater Fishing\")(resident or non-resident), unless exempt."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shrimp/"
+        },
+        {
+          "species_key": "siphonophores-hydroids-class-hydrozoa",
+          "display_name": "Siphonophores/Hydroids (Class Hydrozoa)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 5 per harvester per day (20-organism aggregate) (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "sponges-class-demospongiae-order-dictyoceratida",
+          "display_name": "Sponges (Class Demospongiae, Order Dictyoceratida)",
+          "kind": "changed",
+          "headline": "Bag limit and Management areas updated",
+          "details": [
+            "North and west of the southernmost point of Egmont Key: new area added",
+            "South of Egmont Key: new area added",
+            "Statewide: bag limit is now 5 per harvester per day (20-organism aggregate) [sponges except Sheepswool, Yellow, Grass, Glove, Finger, Wire, Reef, and Velvet Sponges] (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "starfish-order-asteroidea",
+          "display_name": "Starfish (Order Asteroidea)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Statewide: bag limit is now 5 per harvester per day (20-organism aggregate) (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "trunkfish",
+          "display_name": "Trunkfish",
+          "kind": "changed",
+          "headline": "Permits updated",
+          "details": [
+            "license/permit requirements are now: MLB endorsement"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "urchins-class-echinoidea",
+          "display_name": "Urchins (Class Echinoidea)",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Statewide: bag limit is now 5 per harvester per day (20-organism aggregate) (was 5  per day (20-organism aggregate))"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        }
+      ]
+    },
+    {
       "version": "2026-08-11-3",
       "generated_at": "2026-08-11T21:00:15.064413+00:00",
       "summary": "48 species updated",

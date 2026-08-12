@@ -1,13 +1,13 @@
 {
   "state": "FL",
   "domain": "saltwater",
-  "version": "2026-08-11-3",
-  "generated_at": "2026-08-11T21:00:15.064413+00:00",
-  "species_count": 158,
-  "summary": "48 species updated",
-  "dataset_url": "2026-08-11-3.json",
+  "version": "2026-08-12",
+  "generated_at": "2026-08-12T16:26:17.064817+00:00",
+  "species_count": 159,
+  "summary": "21 species updated, 129 wording-only update(s)",
+  "dataset_url": "2026-08-12.json",
   "latest_url": "latest.json",
   "changelog_url": "changelog.json",
-  "sha256": "569567179e54bacb0039e28690dd5041511b96165e9172bef8f2d6a34ec5d215",
-  "bytes": 1008267
+  "sha256": "db111d749fd1e30240dcc7f7f6af125474cbf08f67c765952329c0e87d625c7c",
+  "bytes": 1025736
 }
