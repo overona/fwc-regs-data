@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2026-08-13",
+      "generated_at": "2026-08-13T17:44:19.619809+00:00",
+      "summary": "2 wording-only update(s)",
+      "species_count": 159,
+      "minor_updates": 2,
+      "changes": []
+    },
+    {
       "version": "2026-08-12",
       "generated_at": "2026-08-12T16:26:17.064817+00:00",
       "summary": "21 species updated, 129 wording-only update(s)",
