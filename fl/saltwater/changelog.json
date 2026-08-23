@@ -1,6 +1,532 @@
 {
   "versions": [
     {
+      "version": "2026-08-23",
+      "generated_at": "2026-08-23T16:14:41.323579+00:00",
+      "summary": "47 species added to the app",
+      "species_count": 159,
+      "minor_updates": 0,
+      "changes": [
+        {
+          "species_key": "algae-coralline-red-family-corallinaceae",
+          "display_name": "Algae, Coralline Red (Family Corallinaceae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "anemones-orders-actiniaria-zoanthidea-corallimorpharia-and-ceriantharia",
+          "display_name": "Anemones (Orders Actiniaria, Zoanthidea, Corallimorpharia, and Ceriantharia)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "angelfish-family-pomacanthidae",
+          "display_name": "Angelfish (Family Pomacanthidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "atlantic-sharpnose",
+          "display_name": "Atlantic Sharpnose Shark",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "bahama-starfish",
+          "display_name": "Bahama Starfish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/"
+        },
+        {
+          "species_key": "bay-scallop",
+          "display_name": "Bay Scallop",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/bay-scallops/"
+        },
+        {
+          "species_key": "blue",
+          "display_name": "Blue Shark",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "blue-crab",
+          "display_name": "Blue Crab",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-crab/"
+        },
+        {
+          "species_key": "blue-land-crab",
+          "display_name": "Blue Land Crab",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-land-crabs/"
+        },
+        {
+          "species_key": "burrfish-balloonfish-porcupinefish",
+          "display_name": "Burrfish/Balloonfish/Porcupinefish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "butterflyfish-family-chaetodontidae",
+          "display_name": "Butterflyfish (Family Chaetodontidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "caulerpa-family-caulerpaceae",
+          "display_name": "Caulerpa (Family Caulerpaceae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "conch-queen-strombus-gigas",
+          "display_name": "Conch, Queen (Strombus gigas)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "corals-hard-stony-order-scleractinia-fire-genus-millepora-black-order-antipatharia",
+          "display_name": "Corals; Hard (Stony) (Order Scleractinia), Fire (Genus Millepora, Black (Order Antipatharia)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "corals-soft-subclass-octocorallia",
+          "display_name": "Corals, Soft (Subclass Octocorallia)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "cowfish",
+          "display_name": "Cowfish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "crab-hermit-families-diogenidae-paguridae-parapaguridae-and-pylochelidae",
+          "display_name": "Crab, Hermit (Families Diogenidae, Paguridae, Parapaguridae, and Pylochelidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "crab-horseshoe-limulus-polyphemus",
+          "display_name": "Crab, Horseshoe (Limulus polyphemus)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "filefish-triggerfish-family-balistidae",
+          "display_name": "Filefish/Triggerfish (Family Balistidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "florida-smoothhound",
+          "display_name": "Florida smoothhound",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "giant-manta-ray",
+          "display_name": "Giant Manta Ray",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "gobies-family-gobiidae",
+          "display_name": "Gobies (Family Gobiidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "gulf-smoothhound",
+          "display_name": "Gulf smoothhound",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "halimeda-mermaid-s-fan-mermaid-s-shaving-brush-family-udoteaceae",
+          "display_name": "Halimeda/Mermaid's Fan/Mermaid's Shaving Brush (Family Udoteaceae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "hamlets-seabasses-family-serranidae",
+          "display_name": "Hamlets/Seabasses (Family Serranidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "hard-clams",
+          "display_name": "Hard Clams",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shellfish/"
+        },
+        {
+          "species_key": "jawfish-family-opistognathidae",
+          "display_name": "Jawfish (Family Opistognathidae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "lionfish",
+          "display_name": "Lionfish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/lionfish/"
+        },
+        {
+          "species_key": "octopods-order-octopoda",
+          "display_name": "Octopods (Order Octopoda)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "oysters",
+          "display_name": "Oysters",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shellfish/"
+        },
+        {
+          "species_key": "parrotfish-family-scaridae",
+          "display_name": "Parrotfish (Family Scaridae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "porbeagle",
+          "display_name": "Porbeagle Shark",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "porkfish-anisotremus-virginicus",
+          "display_name": "Porkfish (Anisotremus virginicus)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "puffer-fish",
+          "display_name": "Puffer Fish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/puffer/"
+        },
+        {
+          "species_key": "sawfish",
+          "display_name": "Sawfish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "sea-biscuits-sand-dollars-order-clypeasteroida",
+          "display_name": "Sea Biscuits/Sand Dollars (Order Clypeasteroida)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "shrimp",
+          "display_name": "Shrimp",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shrimp/"
+        },
+        {
+          "species_key": "siphonophores-hydroids-class-hydrozoa",
+          "display_name": "Siphonophores/Hydroids (Class Hydrozoa)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "smooth-hammerhead",
+          "display_name": "Smooth hammerhead",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/"
+        },
+        {
+          "species_key": "spiny-lobster",
+          "display_name": "Spiny Lobster",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/lobster/"
+        },
+        {
+          "species_key": "sponges-class-demospongiae-order-dictyoceratida",
+          "display_name": "Sponges (Class Demospongiae, Order Dictyoceratida)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "starfish-order-asteroidea",
+          "display_name": "Starfish (Order Asteroidea)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "stone-crab",
+          "display_name": "Stone Crab",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/stone-crab/"
+        },
+        {
+          "species_key": "tangs-and-surgeonfish-family-acanthuridae",
+          "display_name": "Tangs and Surgeonfish (Family Acanthuridae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "trunkfish",
+          "display_name": "Trunkfish",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "urchins-class-echinoidea",
+          "display_name": "Urchins (Class Echinoidea)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        },
+        {
+          "species_key": "wrasse-hogfish-razorfish-family-labridae",
+          "display_name": "Wrasse/ Hogfish/ Razorfish (Family Labridae)",
+          "kind": "added",
+          "headline": "Now in the app",
+          "details": [
+            "This species and its FWC regulations can now be browsed in the app."
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/"
+        }
+      ]
+    },
+    {
       "version": "2026-08-13",
       "generated_at": "2026-08-13T17:44:19.619809+00:00",
       "summary": "2 wording-only update(s)",

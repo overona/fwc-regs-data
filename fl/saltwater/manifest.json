@@ -1,13 +1,19 @@
 {
   "state": "FL",
   "domain": "saltwater",
-  "version": "2026-08-13",
-  "generated_at": "2026-08-13T17:44:19.619809+00:00",
+  "version": "2026-08-23",
+  "generated_at": "2026-08-23T16:14:41.323579+00:00",
   "species_count": 159,
-  "summary": "2 wording-only update(s)",
-  "dataset_url": "2026-08-13.json",
+  "summary": "47 species added to the app",
+  "dataset_url": "2026-08-23.json",
   "latest_url": "latest.json",
   "changelog_url": "changelog.json",
-  "sha256": "47747262f9e85bb29d61f26e652c9dfb6a4ea7cf4414425c7bf3357b0e19ece7",
-  "bytes": 1025752
+  "sha256": "58ba85a1daf2364db36ea4755fb78d1d8f4858db07d85bdd3e9be06bc72b48f3",
+  "bytes": 1035440,
+  "profiles_url": "profiles-2026-08-23.json",
+  "profiles_latest_url": "species_profiles.json",
+  "profiles_sha256": "7c9e377ab82b47bff26a2bc87df65963ef36031c4fa3067cc082dc18a6073a90",
+  "profiles_bytes": 45774,
+  "profiles_count": 47,
+  "images_url": "images/"
 }
