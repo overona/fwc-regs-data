@@ -2,7 +2,7 @@
   "versions": [
     {
       "version": "2026-08-23",
-      "generated_at": "2026-08-23T15:03:06.544901+00:00",
+      "generated_at": "2026-08-23T15:38:27.110212+00:00",
       "summary": "47 species added to the app",
       "species_count": 159,
       "minor_updates": 0,
@@ -42,7 +42,7 @@
         },
         {
           "species_key": "atlantic-sharpnose",
-          "display_name": "Atlantic Sharpnose",
+          "display_name": "Atlantic Sharpnose Shark",
           "kind": "added",
           "headline": "Now in the app",
           "details": [
@@ -75,7 +75,7 @@
         },
         {
           "species_key": "blue",
-          "display_name": "Blue",
+          "display_name": "Blue Shark",
           "kind": "added",
           "headline": "Now in the app",
           "details": [
@@ -350,7 +350,7 @@
         },
         {
           "species_key": "porbeagle",
-          "display_name": "Porbeagle",
+          "display_name": "Porbeagle Shark",
           "kind": "added",
           "headline": "Now in the app",
           "details": [
