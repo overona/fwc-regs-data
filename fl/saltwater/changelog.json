@@ -1,6 +1,61 @@
 {
   "versions": [
     {
+      "version": "2026-08-29",
+      "generated_at": "2026-08-29T00:38:40.030097+00:00",
+      "summary": "4 species updated",
+      "species_count": 159,
+      "minor_updates": 0,
+      "changes": [
+        {
+          "species_key": "blue-crab",
+          "display_name": "Blue Crab",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Gulf and Atlantic State Waters: bag limit is now 10 gallons per harvester per day (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-crab/"
+        },
+        {
+          "species_key": "blueline-tilefish",
+          "display_name": "Blueline Tilefish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Federal - Gulf: bag limit is now 20 per day (20 reef fish aggregate) (was Catch and release only (20 reef fish aggregate))",
+            "Gulf State: bag limit is now 100 pounds per harvester per day [by weight]; 2 per harvester per day [by count — whichever is greater] (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/"
+        },
+        {
+          "species_key": "golden-tilefish",
+          "display_name": "Golden Tilefish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Federal - Gulf: bag limit is now 20 per day (20 reef fish aggregate) (was Catch and release only (20 reef fish aggregate))",
+            "Gulf State: bag limit is now 100 pounds per harvester per day [by weight]; 2 per harvester per day [by count — whichever is greater] (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/"
+        },
+        {
+          "species_key": "stone-crab",
+          "display_name": "Stone Crab",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 1 gallon per harvester per day [claws, per person]; 2 gallons per vessel per day [claws, per vessel — whichever is less] (was Catch and release only; Catch and release only)"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/stone-crab/"
+        }
+      ]
+    },
+    {
       "version": "2026-08-23",
       "generated_at": "2026-08-23T16:14:41.323579+00:00",
       "summary": "47 species added to the app",
