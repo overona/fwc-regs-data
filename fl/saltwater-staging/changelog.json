@@ -1,8 +1,480 @@
 {
   "versions": [
     {
+      "version": "2026-08-30",
+      "generated_at": "2026-08-30T16:53:33.262608+00:00",
+      "summary": "34 species updated",
+      "species_count": 159,
+      "minor_updates": 0,
+      "changes": [
+        {
+          "species_key": "african-pompano",
+          "display_name": "African Pompano",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/"
+        },
+        {
+          "species_key": "banded-rudderfish",
+          "display_name": "Banded Rudderfish",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/"
+        },
+        {
+          "species_key": "barracuda",
+          "display_name": "Barracuda",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/barracuda/"
+        },
+        {
+          "species_key": "black",
+          "display_name": "Black",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/"
+        },
+        {
+          "species_key": "black-drum",
+          "display_name": "Black Drum",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/black-drum/"
+        },
+        {
+          "species_key": "blue-crab",
+          "display_name": "Blue Crab",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Everglades National Park: new area added",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-crab/"
+        },
+        {
+          "species_key": "coney-graysby",
+          "display_name": "Coney/Graysby",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/"
+        },
+        {
+          "species_key": "florida-pompano",
+          "display_name": "Florida Pompano",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/"
+        },
+        {
+          "species_key": "flounder",
+          "display_name": "Flounder",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/flounder/"
+        },
+        {
+          "species_key": "gray-mangrove-snapper",
+          "display_name": "Gray (Mangrove) Snapper",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        },
+        {
+          "species_key": "gray-triggerfish",
+          "display_name": "Gray Triggerfish",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/triggerfish/"
+        },
+        {
+          "species_key": "greater-amberjack",
+          "display_name": "Greater Amberjack",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/"
+        },
+        {
+          "species_key": "hogfish",
+          "display_name": "Hogfish",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/hogfish/"
+        },
+        {
+          "species_key": "lane-snapper",
+          "display_name": "Lane Snapper",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        },
+        {
+          "species_key": "lesser-amberjack",
+          "display_name": "Lesser Amberjack",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/"
+        },
+        {
+          "species_key": "lionfish",
+          "display_name": "Lionfish",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Everglades National Park: new area added",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/lionfish/"
+        },
+        {
+          "species_key": "mutton-snapper",
+          "display_name": "Mutton Snapper",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        },
+        {
+          "species_key": "park:biscayne",
+          "display_name": "Biscayne National Park",
+          "kind": "changed",
+          "headline": "Park rules updated",
+          "details": [
+            "park-wide rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/bnp/"
+        },
+        {
+          "species_key": "park:everglades",
+          "display_name": "Everglades National Park",
+          "kind": "changed",
+          "headline": "Park rules updated",
+          "details": [
+            "park-wide rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://www.nps.gov/ever/planyourvisit/fishing.htm"
+        },
+        {
+          "species_key": "permit",
+          "display_name": "Permit",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/"
+        },
+        {
+          "species_key": "queen-conch",
+          "display_name": "Queen Conch",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Everglades National Park: new area added",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/"
+        },
+        {
+          "species_key": "red",
+          "display_name": "Red",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/"
+        },
+        {
+          "species_key": "red-drum-redfish",
+          "display_name": "Red Drum (Redfish)",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/red-drum/"
+        },
+        {
+          "species_key": "rock-hind-red-hind",
+          "display_name": "Rock Hind/Red Hind",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/"
+        },
+        {
+          "species_key": "schoolmaster",
+          "display_name": "Schoolmaster",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        },
+        {
+          "species_key": "sheepshead",
+          "display_name": "Sheepshead",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/sheepshead/"
+        },
+        {
+          "species_key": "shrimp",
+          "display_name": "Shrimp",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Everglades National Park: new area added",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/shrimp/"
+        },
+        {
+          "species_key": "snook",
+          "display_name": "Snook",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snook/"
+        },
+        {
+          "species_key": "spiny-lobster",
+          "display_name": "Spiny Lobster",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Inside Everglades National Park: new area added",
+            "Biscayne National Park: park rules now listed",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/lobster/"
+        },
+        {
+          "species_key": "spotted-seatrout",
+          "display_name": "Spotted Seatrout",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/spotted-seatrout/"
+        },
+        {
+          "species_key": "stone-crab",
+          "display_name": "Stone Crab",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Everglades National Park: new area added",
+            "Everglades National Park: park rules now listed"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/stone-crab/"
+        },
+        {
+          "species_key": "tripletail",
+          "display_name": "Tripletail",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "high",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/tripletail/"
+        },
+        {
+          "species_key": "unregulated-species",
+          "display_name": "Unregulated Species",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/unregulated/"
+        },
+        {
+          "species_key": "yellowtail-dog-and-mahogany-snapper",
+          "display_name": "Yellowtail, Dog, and Mahogany Snapper",
+          "kind": "changed",
+          "headline": "Management areas and Park rules updated",
+          "details": [
+            "Inside Biscayne National Park: new area added",
+            "Biscayne National Park: park rules now listed"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/"
+        }
+      ]
+    },
+    {
+      "version": "2026-08-29",
+      "generated_at": "2026-08-29T00:38:40.030097+00:00",
+      "summary": "4 species updated",
+      "species_count": 159,
+      "minor_updates": 0,
+      "changes": [
+        {
+          "species_key": "blue-crab",
+          "display_name": "Blue Crab",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Gulf and Atlantic State Waters: bag limit is now 10 gallons per harvester per day (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-crab/"
+        },
+        {
+          "species_key": "blueline-tilefish",
+          "display_name": "Blueline Tilefish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Federal - Gulf: bag limit is now 20 per day (20 reef fish aggregate) (was Catch and release only (20 reef fish aggregate))",
+            "Gulf State: bag limit is now 100 pounds per harvester per day [by weight]; 2 per harvester per day [by count — whichever is greater] (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/"
+        },
+        {
+          "species_key": "golden-tilefish",
+          "display_name": "Golden Tilefish",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "Federal - Gulf: bag limit is now 20 per day (20 reef fish aggregate) (was Catch and release only (20 reef fish aggregate))",
+            "Gulf State: bag limit is now 100 pounds per harvester per day [by weight]; 2 per harvester per day [by count — whichever is greater] (was Catch and release only)"
+          ],
+          "confidence": "medium",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/"
+        },
+        {
+          "species_key": "stone-crab",
+          "display_name": "Stone Crab",
+          "kind": "changed",
+          "headline": "Bag limit updated",
+          "details": [
+            "bag limit is now 1 gallon per harvester per day [claws, per person]; 2 gallons per vessel per day [claws, per vessel — whichever is less] (was Catch and release only; Catch and release only)"
+          ],
+          "confidence": "low",
+          "source_url": "https://myfwc.com/fishing/saltwater/recreational/stone-crab/"
+        }
+      ]
+    },
+    {
       "version": "2026-08-23",
-      "generated_at": "2026-08-23T16:10:09.705886+00:00",
+      "generated_at": "2026-08-23T16:14:41.323579+00:00",
       "summary": "47 species added to the app",
       "species_count": 159,
       "minor_updates": 0,
