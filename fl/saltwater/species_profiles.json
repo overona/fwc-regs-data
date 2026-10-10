@@ -1,8 +1,8 @@
 {
   "state": "FL",
   "domain": "saltwater",
-  "generated_at": "2026-08-23T16:08:37.964817+00:00",
-  "schema_version": "1.4",
+  "generated_at": "2026-10-10T15:55:02.647862+00:00",
+  "schema_version": "1.6",
   "profiles": [
     {
       "key": "algae-coralline-red-family-corallinaceae",

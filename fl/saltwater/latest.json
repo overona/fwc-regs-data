@@ -1,8 +1,8 @@
 {
   "state": "FL",
   "domain": "saltwater",
-  "generated_at": "2026-08-30T17:13:35.540255+00:00",
-  "schema_version": "1.5",
+  "generated_at": "2026-10-10T15:55:01.303708+00:00",
+  "schema_version": "1.6",
   "species": [
     {
       "species_key": "african-pompano",
@@ -122,10 +122,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/",
         "page_slug": "permit",
-        "fetched_at": "2026-08-20T17:15:55.111089+00:00",
+        "fetched_at": "2026-10-10T15:45:17.248583+00:00",
         "extracted_at": "2026-08-11T17:30:33.671533+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -224,10 +224,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -295,10 +295,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/",
         "page_slug": "amberjack",
-        "fetched_at": "2026-08-20T17:19:35.859754+00:00",
+        "fetched_at": "2026-10-10T15:48:58.038830+00:00",
         "extracted_at": "2026-08-11T17:36:50.271439+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Almaco jack is an \"unregulated species\"",
@@ -374,10 +374,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -476,10 +476,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -543,10 +543,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -631,10 +631,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -746,10 +746,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/spot-croaker/",
         "page_slug": "spot-croaker",
-        "fetched_at": "2026-08-20T17:17:15.385699+00:00",
+        "fetched_at": "2026-10-10T15:46:37.540503+00:00",
         "extracted_at": "2026-08-12T16:01:48.509569+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -820,10 +820,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -876,10 +876,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -985,10 +985,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/",
         "page_slug": "amberjack",
-        "fetched_at": "2026-08-20T17:19:35.859754+00:00",
+        "fetched_at": "2026-10-10T15:48:58.038830+00:00",
         "extracted_at": "2026-08-11T17:36:50.271439+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -1180,10 +1180,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/barracuda/",
         "page_slug": "barracuda",
-        "fetched_at": "2026-08-20T17:10:54.113617+00:00",
+        "fetched_at": "2026-10-10T15:40:16.150389+00:00",
         "extracted_at": "2026-08-11T19:01:35.421614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -1268,10 +1268,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -1697,10 +1697,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/bay-scallops/",
         "page_slug": "bay-scallops",
-        "fetched_at": "2026-08-20T17:22:36.507928+00:00",
+        "fetched_at": "2026-10-10T15:51:58.721447+00:00",
         "extracted_at": "2026-08-12T15:54:03.223502+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -1764,10 +1764,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -1831,10 +1831,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -1898,10 +1898,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -1965,10 +1965,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2189,10 +2189,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Special regulations apply for this species when fishing in Biscayne National Park."
@@ -2327,10 +2327,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/black-drum/",
         "page_slug": "black-drum",
-        "fetched_at": "2026-08-20T17:11:34.231582+00:00",
+        "fetched_at": "2026-10-10T15:40:56.302041+00:00",
         "extracted_at": "2026-08-11T19:03:17.966784+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -2455,10 +2455,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/black-sea-bass/",
         "page_slug": "black-sea-bass",
-        "fetched_at": "2026-08-20T17:19:55.934698+00:00",
+        "fetched_at": "2026-10-10T15:49:18.102608+00:00",
         "extracted_at": "2026-08-12T16:02:06.930372+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2576,10 +2576,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2673,10 +2673,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2743,10 +2743,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2812,10 +2812,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -2881,10 +2881,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3236,10 +3236,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-crab/",
         "page_slug": "blue-crab",
-        "fetched_at": "2026-08-20T17:22:56.575906+00:00",
+        "fetched_at": "2026-10-10T15:52:18.803779+00:00",
         "extracted_at": "2026-08-11T17:45:10.066361+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -3336,10 +3336,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/blue-land-crabs/",
         "page_slug": "blue-land-crabs",
-        "fetched_at": "2026-08-20T17:23:16.633871+00:00",
+        "fetched_at": "2026-10-10T15:52:38.877921+00:00",
         "extracted_at": "2026-08-11T17:45:17.523726+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3422,10 +3422,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3486,10 +3486,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3636,10 +3636,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/bluefish/",
         "page_slug": "bluefish",
-        "fetched_at": "2026-08-20T17:11:54.307147+00:00",
+        "fetched_at": "2026-10-10T15:41:16.370110+00:00",
         "extracted_at": "2026-08-11T19:03:28.555613+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3856,10 +3856,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/",
         "page_slug": "tilefish",
-        "fetched_at": "2026-08-20T17:21:36.303060+00:00",
+        "fetched_at": "2026-10-10T15:50:58.509292+00:00",
         "extracted_at": "2026-08-11T17:42:24.438506+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3928,10 +3928,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/bonefish/",
         "page_slug": "bonefish",
-        "fetched_at": "2026-08-20T17:12:14.366936+00:00",
+        "fetched_at": "2026-10-10T15:41:36.453980+00:00",
         "extracted_at": "2026-08-11T19:03:34.817878+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -3997,10 +3997,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4069,10 +4069,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4160,10 +4160,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4232,10 +4232,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4299,10 +4299,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4366,10 +4366,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4447,10 +4447,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4520,10 +4520,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/cobia/",
         "page_slug": "cobia",
-        "fetched_at": "2026-08-20T17:12:34.426854+00:00",
+        "fetched_at": "2026-10-10T15:41:56.519588+00:00",
         "extracted_at": "2026-08-11T19:03:46.621521+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4590,10 +4590,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4769,10 +4769,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Special regulations apply for these species when fishing in Biscayne National Park."
@@ -4871,10 +4871,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -4945,10 +4945,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5034,10 +5034,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5127,10 +5127,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5197,10 +5197,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5346,10 +5346,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5477,10 +5477,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/dolphinfish/",
         "page_slug": "dolphinfish",
-        "fetched_at": "2026-08-20T17:12:54.489806+00:00",
+        "fetched_at": "2026-10-10T15:42:16.585313+00:00",
         "extracted_at": "2026-08-11T19:03:54.165097+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5544,10 +5544,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5617,10 +5617,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5686,10 +5686,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -5804,10 +5804,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/",
         "page_slug": "permit",
-        "fetched_at": "2026-08-20T17:15:55.111089+00:00",
+        "fetched_at": "2026-10-10T15:45:17.248583+00:00",
         "extracted_at": "2026-08-11T17:30:33.671533+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -5894,10 +5894,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6048,10 +6048,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/flounder/",
         "page_slug": "flounder",
-        "fetched_at": "2026-08-20T17:13:14.561776+00:00",
+        "fetched_at": "2026-10-10T15:42:36.660119+00:00",
         "extracted_at": "2026-08-11T19:04:03.520451+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Special regulations apply for this species when fishing in Biscayne National Park."
@@ -6266,10 +6266,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6333,10 +6333,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6403,10 +6403,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6475,10 +6475,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6693,10 +6693,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/tilefish/",
         "page_slug": "tilefish",
-        "fetched_at": "2026-08-20T17:21:36.303060+00:00",
+        "fetched_at": "2026-10-10T15:50:58.509292+00:00",
         "extracted_at": "2026-08-11T17:42:24.438506+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6778,10 +6778,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -6913,10 +6913,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/goliath/",
         "page_slug": "goliath",
-        "fetched_at": "2026-08-20T17:20:36.094192+00:00",
+        "fetched_at": "2026-10-10T15:49:58.267314+00:00",
         "extracted_at": "2026-08-11T17:37:47.180964+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -7117,10 +7117,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -7331,10 +7331,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/triggerfish/",
         "page_slug": "triggerfish",
-        "fetched_at": "2026-08-20T17:21:56.372102+00:00",
+        "fetched_at": "2026-10-10T15:51:18.586332+00:00",
         "extracted_at": "2026-08-11T17:42:50.815509+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -7429,10 +7429,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -7619,10 +7619,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/",
         "page_slug": "amberjack",
-        "fetched_at": "2026-08-20T17:19:35.859754+00:00",
+        "fetched_at": "2026-10-10T15:48:58.038830+00:00",
         "extracted_at": "2026-08-11T17:36:50.271439+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -7709,10 +7709,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -7790,10 +7790,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -7863,10 +7863,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Except reef fish and Longtail Bass (Hemanthias leptus); such as groupers, snappers, seabass and amberjacks. Must abide by regulations for these species in Rule 68B-14 F.A.C."
@@ -7963,10 +7963,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/shellfish/",
         "page_slug": "shellfish",
-        "fetched_at": "2026-08-20T17:23:56.771382+00:00",
+        "fetched_at": "2026-10-10T15:53:19.017966+00:00",
         "extracted_at": "2026-08-12T16:01:27.495989+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -8016,10 +8016,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Live oysters (68B-27, FAC) and live hard clams (quahogs) (68B-17, FAC) can only be harvested in accordance FWC rules, and all species of clam, oyster or mussel can only be harvested from designated approved or conditionally approved shellfish harvesting areas that are in the open status as determined by the Florida Department of Agriculture and Consumer Services.",
@@ -8279,10 +8279,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/hogfish/",
         "page_slug": "hogfish",
-        "fetched_at": "2026-08-20T17:20:56.163363+00:00",
+        "fetched_at": "2026-10-10T15:50:18.335472+00:00",
         "extracted_at": "2026-08-11T17:38:25.398904+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -8372,10 +8372,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -8495,10 +8495,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/king-mackerel/",
         "page_slug": "king-mackerel",
-        "fetched_at": "2026-08-20T17:14:14.798107+00:00",
+        "fetched_at": "2026-10-10T15:43:36.886221+00:00",
         "extracted_at": "2026-08-11T17:29:13.566089+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -8680,10 +8680,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -8778,10 +8778,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -8887,10 +8887,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/amberjack/",
         "page_slug": "amberjack",
-        "fetched_at": "2026-08-20T17:19:35.859754+00:00",
+        "fetched_at": "2026-10-10T15:48:58.038830+00:00",
         "extracted_at": "2026-08-11T17:36:50.271439+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -9061,10 +9061,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/lionfish/",
         "page_slug": "lionfish",
-        "fetched_at": "2026-08-20T17:13:34.660355+00:00",
+        "fetched_at": "2026-10-10T15:42:56.738864+00:00",
         "extracted_at": "2026-08-11T19:04:27.348218+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -9132,10 +9132,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/unregulated/",
         "page_slug": "unregulated",
-        "fetched_at": "2026-08-20T17:18:35.658858+00:00",
+        "fetched_at": "2026-10-10T15:47:57.821703+00:00",
         "extracted_at": "2026-08-11T17:35:19.986585+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9202,10 +9202,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9269,10 +9269,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9338,10 +9338,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "The bag limit for marine life (tropical ornamental) species is 20 organisms per person per day.",
@@ -9442,10 +9442,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/mullet/",
         "page_slug": "mullet",
-        "fetched_at": "2026-08-20T17:14:54.916740+00:00",
+        "fetched_at": "2026-10-10T15:44:17.019493+00:00",
         "extracted_at": "2026-08-11T17:29:27.370062+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9608,10 +9608,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -9706,10 +9706,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9789,10 +9789,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9856,10 +9856,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9925,10 +9925,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -9992,10 +9992,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10111,10 +10111,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10204,10 +10204,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10290,10 +10290,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10528,10 +10528,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/shellfish/",
         "page_slug": "shellfish",
-        "fetched_at": "2026-08-20T17:23:56.771382+00:00",
+        "fetched_at": "2026-10-10T15:53:19.017966+00:00",
         "extracted_at": "2026-08-12T16:01:27.495989+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10581,10 +10581,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Live oysters (68B-27, FAC) and live hard clams (quahogs) (68B-17, FAC) can only be harvested in accordance FWC rules, and all species of clam, oyster or mussel can only be harvested from designated approved or conditionally approved shellfish harvesting areas that are in the open status as determined by the Florida Department of Agriculture and Consumer Services.",
@@ -10656,10 +10656,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -10844,10 +10844,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/permit/",
         "page_slug": "permit",
-        "fetched_at": "2026-08-20T17:15:55.111089+00:00",
+        "fetched_at": "2026-10-10T15:45:17.248583+00:00",
         "extracted_at": "2026-08-11T17:30:33.671533+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "[Permit, all other state and federal waters outside the SPZ](#panel-4-3289b748-6959-471c-a9df-8ffa4906af19)"
@@ -10936,10 +10936,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -11008,10 +11008,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -11068,10 +11068,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/puffer/",
         "page_slug": "puffer",
-        "fetched_at": "2026-08-20T17:15:14.985617+00:00",
+        "fetched_at": "2026-10-10T15:44:37.091611+00:00",
         "extracted_at": "2026-08-11T17:29:34.265007+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -11179,10 +11179,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -11303,10 +11303,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -11538,10 +11538,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Special regulations apply for this species when fishing in Biscayne National Park."
@@ -12086,10 +12086,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/red-drum/",
         "page_slug": "red-drum",
-        "fetched_at": "2026-08-20T17:15:35.049773+00:00",
+        "fetched_at": "2026-10-10T15:44:57.177400+00:00",
         "extracted_at": "2026-08-11T17:11:50.716678+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -12234,10 +12234,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/red-porgy/",
         "page_slug": "red-porgy",
-        "fetched_at": "2026-08-20T17:22:16.443682+00:00",
+        "fetched_at": "2026-10-10T15:51:38.651553+00:00",
         "extracted_at": "2026-08-11T17:42:59.047178+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -12445,10 +12445,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -12624,10 +12624,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Special regulations apply for these species when fishing in Biscayne National Park."
@@ -12742,10 +12742,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -12829,10 +12829,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -12896,10 +12896,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -12963,10 +12963,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13023,10 +13023,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13090,10 +13090,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13247,10 +13247,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13413,10 +13413,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -13571,10 +13571,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13666,10 +13666,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sea-shells/",
         "page_slug": "sea-shells",
-        "fetched_at": "2026-08-20T17:24:16.845565+00:00",
+        "fetched_at": "2026-10-10T15:53:39.093191+00:00",
         "extracted_at": "2026-08-11T17:48:25.680614+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "In **Lee County**, you may not harvest or possess any shells that contain a live organism except for oysters, hard clams (quahogs), sunray venus clams and coquinas.",
@@ -13738,10 +13738,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -13863,10 +13863,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sheepshead/",
         "page_slug": "sheepshead",
-        "fetched_at": "2026-08-20T17:16:35.246598+00:00",
+        "fetched_at": "2026-10-10T15:45:57.399186+00:00",
         "extracted_at": "2026-08-11T17:32:31.694554+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -13952,10 +13952,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14187,10 +14187,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/shrimp/",
         "page_slug": "shrimp",
-        "fetched_at": "2026-08-20T17:24:36.908811+00:00",
+        "fetched_at": "2026-10-10T15:53:59.159382+00:00",
         "extracted_at": "2026-08-12T15:59:36.399174+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -14278,10 +14278,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14351,10 +14351,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14418,10 +14418,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14485,10 +14485,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14554,10 +14554,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -14621,10 +14621,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -15179,10 +15179,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snook/",
         "page_slug": "snook",
-        "fetched_at": "2026-08-20T17:16:55.315728+00:00",
+        "fetched_at": "2026-10-10T15:46:17.472625+00:00",
         "extracted_at": "2026-08-11T17:33:21.628968+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -15331,10 +15331,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -15406,10 +15406,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/spanish-mackerel/",
         "page_slug": "spanish-mackerel",
-        "fetched_at": "2026-08-20T17:14:34.855635+00:00",
+        "fetched_at": "2026-10-10T15:43:56.952472+00:00",
         "extracted_at": "2026-08-11T17:29:17.874151+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -15475,10 +15475,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -15542,10 +15542,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -15856,10 +15856,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/lobster/",
         "page_slug": "lobster",
-        "fetched_at": "2026-08-20T17:23:36.704357+00:00",
+        "fetched_at": "2026-10-10T15:52:58.942906+00:00",
         "extracted_at": "2026-08-11T17:46:22.045380+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "Prohibited Areas: Harvest of lobster is prohibited in John Pennekamp Coral Reef State Park during the sport season. At all times, harvest of lobster is prohibited in Everglades National Park, Dry Tortugas National Park, no-take areas in the Florida Keys National Marine Sanctuary, in the Biscayne Bay/Card Sound Lobster Sanctuary, and in the five Coral Reef Protection Areas in Biscayne National Park.",
@@ -16004,10 +16004,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -16119,10 +16119,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/spot-croaker/",
         "page_slug": "spot-croaker",
-        "fetched_at": "2026-08-20T17:17:15.385699+00:00",
+        "fetched_at": "2026-10-10T15:46:37.540503+00:00",
         "extracted_at": "2026-08-12T16:01:48.509569+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -16624,10 +16624,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/spotted-seatrout/",
         "page_slug": "spotted-seatrout",
-        "fetched_at": "2026-08-20T17:17:35.447706+00:00",
+        "fetched_at": "2026-10-10T15:46:57.615329+00:00",
         "extracted_at": "2026-08-11T17:34:26.040199+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -16764,10 +16764,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -16942,10 +16942,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/stone-crab/",
         "page_slug": "stone-crab",
-        "fetched_at": "2026-08-20T17:24:56.969599+00:00",
+        "fetched_at": "2026-10-10T15:54:19.235396+00:00",
         "extracted_at": "2026-08-11T17:49:25.478175+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [
         "For the 2024-25 stone crab season and beyond, an unobstructed escape ring 2 3/16 inches in diameter to be located within a vertical exterior trap wall for all recreational and commercial plastic or wood stone crab traps is required."
@@ -17095,10 +17095,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17167,10 +17167,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17289,10 +17289,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/tarpon/",
         "page_slug": "tarpon",
-        "fetched_at": "2026-08-20T17:17:55.511933+00:00",
+        "fetched_at": "2026-10-10T15:47:17.687963+00:00",
         "extracted_at": "2026-08-11T17:34:53.707758+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17358,10 +17358,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17425,10 +17425,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17541,10 +17541,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/tripletail/",
         "page_slug": "tripletail",
-        "fetched_at": "2026-08-20T17:18:15.578212+00:00",
+        "fetched_at": "2026-10-10T15:47:37.755104+00:00",
         "extracted_at": "2026-08-11T17:35:00.125704+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -17650,10 +17650,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -17833,10 +17833,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/unregulated/",
         "page_slug": "unregulated",
-        "fetched_at": "2026-08-20T17:18:35.658858+00:00",
+        "fetched_at": "2026-10-10T15:47:57.821703+00:00",
         "extracted_at": "2026-08-11T17:35:19.986585+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -18028,10 +18028,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18154,10 +18154,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18227,10 +18227,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/wahoo/",
         "page_slug": "wahoo",
-        "fetched_at": "2026-08-20T17:18:55.719871+00:00",
+        "fetched_at": "2026-10-10T15:48:17.890491+00:00",
         "extracted_at": "2026-08-11T17:35:25.706358+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18378,10 +18378,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18483,10 +18483,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/weakfish/",
         "page_slug": "weakfish",
-        "fetched_at": "2026-08-20T17:19:15.793499+00:00",
+        "fetched_at": "2026-10-10T15:48:37.956336+00:00",
         "extracted_at": "2026-08-12T16:02:26.916142+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18550,10 +18550,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18617,10 +18617,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/sharks/",
         "page_slug": "sharks",
-        "fetched_at": "2026-08-20T17:16:15.185135+00:00",
+        "fetched_at": "2026-10-10T15:45:37.335902+00:00",
         "extracted_at": "2026-08-11T20:54:08.498071+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18703,10 +18703,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/billfish-tuna/",
         "page_slug": "billfish-tuna",
-        "fetched_at": "2026-08-20T17:11:14.175915+00:00",
+        "fetched_at": "2026-10-10T15:40:36.225901+00:00",
         "extracted_at": "2026-08-11T19:03:11.132832+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18785,10 +18785,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/marine-life/",
         "page_slug": "marine-life",
-        "fetched_at": "2026-08-20T17:13:54.730216+00:00",
+        "fetched_at": "2026-10-10T15:43:16.820890+00:00",
         "extracted_at": "2026-08-12T15:58:51.256946+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -18911,10 +18911,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -19070,10 +19070,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -19223,10 +19223,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/groupers/",
         "page_slug": "groupers",
-        "fetched_at": "2026-08-20T17:20:16.024872+00:00",
+        "fetched_at": "2026-10-10T15:49:38.182545+00:00",
         "extracted_at": "2026-08-11T17:21:17.726546+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": []
@@ -19391,10 +19391,10 @@
       "provenance": {
         "source_url": "https://myfwc.com/fishing/saltwater/recreational/snappers/",
         "page_slug": "snappers",
-        "fetched_at": "2026-08-20T17:21:16.235286+00:00",
+        "fetched_at": "2026-10-10T15:50:38.428998+00:00",
         "extracted_at": "2026-08-12T15:38:32.221145+00:00",
         "model": "claude-sonnet-5",
-        "schema_version": "1.5"
+        "schema_version": "1.6"
       },
       "grounding_failures": [],
       "park_rules": [
@@ -19436,7 +19436,7 @@
       "park": "biscayne",
       "name": "Biscayne National Park",
       "source_url": "https://myfwc.com/fishing/saltwater/recreational/bnp/",
-      "fetched_at": "2026-08-30T16:06:10.491773+00:00",
+      "fetched_at": "2026-10-10T15:54:39.306541+00:00",
       "extracted_at": "2026-08-30T16:34:27.645744+00:00",
       "model": "claude-sonnet-5",
       "bag_limits": [],
@@ -19480,7 +19480,7 @@
       "park": "everglades",
       "name": "Everglades National Park",
       "source_url": "https://www.nps.gov/ever/planyourvisit/fishing.htm",
-      "fetched_at": "2026-08-30T16:06:11.158938+00:00",
+      "fetched_at": "2026-10-10T15:54:59.354101+00:00",
       "extracted_at": "2026-08-30T16:36:37.205764+00:00",
       "model": "claude-sonnet-5",
       "bag_limits": [

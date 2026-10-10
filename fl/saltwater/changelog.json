@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "2026-10-10",
+      "generated_at": "2026-10-10T15:55:01.303708+00:00",
+      "summary": "No regulation changes",
+      "species_count": 159,
+      "minor_updates": 0,
+      "changes": []
+    },
+    {
       "version": "2026-08-30",
       "generated_at": "2026-08-30T17:13:35.540255+00:00",
       "summary": "34 species updated",
